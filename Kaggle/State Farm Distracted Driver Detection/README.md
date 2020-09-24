@@ -17,7 +17,7 @@ Files:
 
 	- Predict from test data
 	
-- imgs directory:
+- imgs directory (available on "Link to data competition"):
 
 	- Test images
 

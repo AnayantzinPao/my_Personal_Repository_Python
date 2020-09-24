@@ -3,7 +3,7 @@
 
 Files:
 
-- Jupyter notebook with the functions for:
+- Jupyter notebook (.ipynb) with the functions for:
 
 	- preprocessing data
 

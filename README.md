@@ -1,4 +1,4 @@
-# myPython repository
+# My Python repository
 ### Python exercises and projects
 
 - Basics:
